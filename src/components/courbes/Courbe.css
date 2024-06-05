@@ -1,0 +1,6 @@
+.charts {
+    padding: 50px;
+    display: grid;
+    gap: 80px;
+    grid-template-columns: repeat(2,auto);
+}

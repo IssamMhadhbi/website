@@ -1,0 +1,18 @@
+table {
+    width: 60%;
+    
+}
+table img {
+    max-width: 70px;
+}
+table td {
+    padding: 5px;
+}
+#green {
+    color: green;
+    font-weight: 900;
+}
+#red {
+    color: red;
+    font-weight: 900;
+}

@@ -1,0 +1,25 @@
+.Description {
+    width: 100%;
+    height: 60vh;
+    display: flex;
+}
+.Description .Content {
+    flex-basis: 50%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 50px 20px 20px 20px;
+    text-align: justify;
+}
+.Cover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-basis: 50%;
+    height: 100%;
+}
+.Description img {
+    max-height: 80%;
+    max-width: 80%;
+}

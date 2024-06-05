@@ -1,0 +1,37 @@
+.main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.navs {
+    flex-basis: 20%;
+    background-color: #648b7c;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.courbes {
+    flex-basis: 80%;
+    height: 100vh;
+}
+li {
+    list-style: none;
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    margin: 15px auto;
+    cursor: pointer;
+}
+#backbtn {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 120px;
+    padding: 7px;
+    background-color: white;
+    color: #648b7c;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
